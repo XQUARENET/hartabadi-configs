@@ -1,0 +1,438 @@
+{
+    "HorizonLayout": [
+        {
+            "layout": "logo",
+            "menuIcon": {
+                "name": "blur_on",
+                "fontFamily": "MaterialIcons"
+            },
+            "showCart": false,
+            "showLogo": true,
+            "showMenu": true,
+            "showSearch": true,
+            "showNotification": false
+        },
+        {
+            "indent": 5,
+            "layout": "divider",
+            "endIndent": 5,
+            "thickness": 1
+        },
+        {
+            "fit": "fill",
+            "items": [
+                {
+                    "type": "image",
+                    "image": "https://trello.com/1/cards/66a5d39c38e1409aaf46336f/attachments/66a62a6952c22c97792800c7/download/Hero_Banner_UI_3.jpg",
+                    "video": "",
+                    "category": 23,
+                    "products": [],
+                    "productLength": 3,
+                    "showSubcategory": false,
+                    "bannerWithProduct": false,
+                    "defaultShowProduct": false
+                },
+                {
+                    "name": "",
+                    "type": "image",
+                    "image": "https://trello.com/1/cards/66a5d39c38e1409aaf46336f/attachments/66a62a68d33011f3e7754189/download/Hero_Banner_UI_2.jpg",
+                    "video": "",
+                    "category": 23,
+                    "products": [],
+                    "productLength": 3,
+                    "showSubcategory": false,
+                    "bannerWithProduct": false,
+                    "defaultShowProduct": false
+                },
+                {
+                    "key": "QdrIuxiccH",
+                    "url": "https://xquare.ofiz.id/listing/london-grammar-live/",
+                    "type": "image",
+                    "image": "https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png",
+                    "video": "",
+                    "products": [],
+                    "enableForward": true,
+                    "productLength": 3,
+                    "enableBackward": true,
+                    "showSubcategory": false,
+                    "bannerWithProduct": false,
+                    "defaultShowProduct": false
+                }
+            ],
+            "design": "custom",
+            "height": 0.3,
+            "isBlur": false,
+            "layout": "bannerImage",
+            "radius": 0,
+            "padding": 0,
+            "autoPlay": true,
+            "isSlider": true,
+            "parallax": false,
+            "upHeight": 0,
+            "isSoundOn": false,
+            "marginTop": 0,
+            "marginLeft": 0,
+            "showNumber": false,
+            "marginRight": 0,
+            "intervalTime": 10,
+            "isHorizontal": false,
+            "marginBottom": 0,
+            "autoPlayVideo": false,
+            "numberPadding": {
+                "end": 0,
+                "top": 15,
+                "start": 0,
+                "bottom": 0
+            },
+            "showIndicator": true,
+            "showBackground": false,
+            "numberAlignment": {
+                "value": "topEnd"
+            },
+            "enableBackground": false,
+            "indicatorPadding": {
+                "end": 0,
+                "top": 0,
+                "start": 0,
+                "bottom": 12
+            },
+            "pageIndicatorType": "line",
+            "indicatorAlignment": {
+                "value": "bottomCenter"
+            },
+            "parallaxImageRatio": 1.2,
+            "enableTimeIndicator": true,
+            "doubleTapToFullScreen": false
+        },
+        {
+            "size": 1.4,
+            "type": "icon",
+            "wrap": false,
+            "items": [
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ad0d4e6f98f6acea8e06c/previews/610ad0d4e6f98f6acea8e074/download",
+                    "order": null,
+                    "title": "COVID",
+                    "colors": [
+                        "ff333333"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": true,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ace280486c252cc2e0be6/previews/610ace280486c252cc2e0bf3/download",
+                    "order": null,
+                    "title": "Consultant",
+                    "colors": [
+                        "ff333333"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": true,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610acda138e1517dfce43010/previews/610acda138e1517dfce43042/download",
+                    "order": null,
+                    "title": "Medicine",
+                    "colors": [
+                        "ff333333"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": true,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ad2238fd94072c84c0761/previews/610ad2238fd94072c84c0779/download",
+                    "order": null,
+                    "title": "Mental",
+                    "colors": [
+                        "ff333333"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": true,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ad15f18151234f67ea68f/previews/610ad15f18151234f67ea6a4/download",
+                    "order": null,
+                    "title": "Dental",
+                    "colors": [
+                        "ff333333"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": true,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": null,
+                    "order": null,
+                    "title": null,
+                    "colors": null,
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "",
+                    "featured": false,
+                    "showText": null,
+                    "description": null,
+                    "productType": false,
+                    "originalColor": false,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": false,
+                    "productListAnimationConfig": null
+                }
+            ],
+            "layout": "category",
+            "radius": 16,
+            "shadow": null,
+            "columns": null,
+            "marginX": 0,
+            "marginY": 0,
+            "spacing": 12,
+            "paddingX": 4,
+            "paddingY": 0,
+            "hideTitle": false,
+            "marginTop": 23,
+            "marginLeft": 24,
+            "imageBoxFit": "cover",
+            "marginRight": 24,
+            "enableBorder": true,
+            "imageSpacing": 0,
+            "marginBottom": 23,
+            "noBackground": false,
+            "gradientStyle": false,
+            "labelFontSize": 14,
+            "originalColor": false,
+            "separateWidth": 24,
+            "textAlignment": "topLeft",
+            "horizontalItem": false,
+            "animationConfig": null,
+            "enableBackground": null,
+            "enableFilterCategory": false,
+            "productCategoryMenuStyle": "menu"
+        },
+        {
+            "data": "https://xquare.ofiz.id/event-listing/",
+            "type": "url",
+            "height": 277,
+            "layout": "webEmbed",
+            "script": null,
+            "spacing": {
+                "margin": null,
+                "padding": null
+            }
+        }
+    ],
+    "Setting": {
+        "ShowChat": true,
+        "MainColor": "#3FC1BE",
+        "FontHeader": "ABeeZee",
+        "StickyHeader": true,
+        "TabBarConfig": null,
+        "ProductDetail": "simpleType",
+        "ProductListLayout": "list"
+    },
+    "TabBar": [
+        {
+            "key": "u6bbgbflu6",
+            "pos": 100,
+            "url": "https://xquare.ofiz.id/",
+            "icon": "home",
+            "label": "Home",
+            "title": "",
+            "layout": "page",
+            "visible": true,
+            "defaultTab": false,
+            "fontFamily": "CupertinoIcons",
+            "fullscreen": false,
+            "enableForward": false,
+            "enableBackward": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "x4jbmz4i07",
+            "pos": 200,
+            "url": "https://uup.hartabadi.id/daftar-uup/",
+            "icon": "gift_fill",
+            "label": "UUP",
+            "title": "UUP",
+            "layout": "page",
+            "script": "document.getElementById(\"site-navigation\").remove(); document.getElementById(\"primary-menu\").remove(); document.getElementById(\"reign-copyright-text\").remove();",
+            "defaultTab": false,
+            "fontFamily": "CupertinoIcons",
+            "fullscreen": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "b41fsnppdg",
+            "pos": 300,
+            "url": "https://uup.hartabadi.id/jobs/",
+            "icon": "briefcase",
+            "label": "Jobs",
+            "title": "Jobs",
+            "layout": "page",
+            "defaultTab": false,
+            "fontFamily": "CupertinoIcons",
+            "fullscreen": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "zseqjzgd4z",
+            "pos": 400,
+            "url": "https://uup.hartabadi.id/directory/",
+            "icon": "bag",
+            "label": "Directory",
+            "title": "Directory",
+            "layout": "page",
+            "defaultTab": false,
+            "fontFamily": "CupertinoIcons",
+            "fullscreen": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "5fjfol669r",
+            "pos": 500,
+            "icon": "person",
+            "label": "Account",
+            "layout": "profile",
+            "defaultTab": false,
+            "fontFamily": "CupertinoIcons",
+            "fullscreen": false,
+            "showBackground": true,
+            "showOriginalColor": false
+        }
+    ],
+    "AppBar": null,
+    "Drawer": {
+        "logo": null,
+        "items": [
+            {
+                "show": true,
+                "type": "home"
+            },
+            {
+                "show": true,
+                "type": "blog"
+            },
+            {
+                "show": true,
+                "type": "login"
+            },
+            {
+                "show": true,
+                "type": "category"
+            },
+            {
+                "show": false,
+                "type": "categories"
+            },
+            {
+                "show": false,
+                "type": "cart"
+            },
+            {
+                "show": false,
+                "type": "profile"
+            },
+            {
+                "show": true,
+                "type": "web-CDPaUfwPMg"
+            }
+        ],
+        "enable": true,
+        "filter": 0,
+        "logoDark": null,
+        "safeArea": false,
+        "iconColor": null,
+        "textColor": null,
+        "logoConfig": {
+            "boxFit": "cover",
+            "height": 38,
+            "marginTop": 60,
+            "marginLeft": 5,
+            "marginRight": 0,
+            "marginBottom": 10
+        },
+        "zoomConfig": null,
+        "colorFilter": null,
+        "subDrawerItem": {
+            "web-CDPaUfwPMg": {
+                "id": "web-12",
+                "icon": "news",
+                "title": "Event Dashboard",
+                "webUrl": "https://hartabadi.id/event-dashboard/",
+                "buttons": [],
+                "enableClose": false,
+                "webViewMode": true,
+                "bannerHeight": 15,
+                "useTabScreen": false,
+                "enableDivider": false,
+                "enableForward": true,
+                "requiredLogin": false,
+                "enableBackward": true,
+                "iconFontFamily": "CupertinoIcons",
+                "buttonAlignment": "centerLeft"
+            }
+        },
+        "backgroundColor": null,
+        "backgroundImage": null
+    }
+}
