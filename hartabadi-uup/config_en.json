@@ -1,1 +1,171 @@
-{"HorizonLayout":[{"layout":"logo","image":"https://trello.com/1/cards/68884698e3736dc30bd7b4a0/attachments/688c3011c75ec79baa191692/download/Discipulusicon.png","showLogo":true,"showSearch":true,"showCart":true,"showNotification":false,"showBadgeCart":false,"opacity":1,"iconOpacity":0,"iconRadius":6,"iconSpreadRadius":0,"iconSize":24,"logoSize":30,"cartIcon":{"name":"shopping_cart","fontFamily":"CupertinoIcons"},"textConfig":{"text":"DISCIPULUS","fontFamily":"Roboto","fontSize":17,"color":"#3FC1BE","x":-1,"y":0,"enableShadow":false}},{"layout":"bannerImage","isSlider":true,"autoPlay":false,"showNumber":false,"design":"default","showBackGround":true,"radius":2,"enableBackground":true,"smallScreenMaxWidth":380,"items":[{"category":18,"type":"animated","animatedConfig":{"layout":"animatedStackContainer","background":{"color":"#1D2939","type":"background"},"margin":{"start":15,"end":15,"bottom":0},"clipBorderRadius":8,"children":[{"type":"align","alignment":"centerRight","child":{"type":"image","url":"https://trello.com/1/cards/66838d45fd93cfdee38dcb87/attachments/67e3c23bbe049d60ff77f146/download/image_40.png"},"scripts":[{"type":"animation","duration":400,"startState":{"opacity":0},"endState":{"opacity":1}}]},{"type":"padding","padding":{"start":20,"top":25,"bottom":25,"end":130},"child":{"type":"column","axis":"vertical","mainAxisSize":"max","mainAxisAlignment":"start","crossAxisAlignment":"start","children":[{"type":"text","text":"Power Up Your World","style":{"fontSize":16,"fontWeight":"w600","fontFamily":"Inter","color":"#FFFFFF"}},{"type":"sizedBox","height":10},{"type":"text","text":"Explore our curated selection of tech essentials.","style":{"fontSize":14,"fontWeight":"w400","color":"#CCCCCC","fontFamily":"Inter","height":1.5},"smallScreen":{"type":"text","text":"Explore our curated selection of tech essentials.","style":{"fontSize":12,"fontWeight":"w400","color":"#CCCCCC","fontFamily":"Inter"}}}]},"scripts":[{"type":"animation","duration":400,"delay":400,"startState":{"opacity":0},"endState":{"opacity":1}}]},{"type":"elevatedButton","color":"#FFFFFF","borderRadius":30,"child":{"type":"padding","padding":{"start":20,"top":10,"bottom":10,"end":20},"child":{"type":"text","text":"Explore categories","style":{"fontSize":14,"fontWeight":"w600","color":"#1D2939","fontFamily":"Inter"}}},"actionConfig":{"tab":"category"},"scripts":[{"type":"position","bottom":10,"start":20},{"type":"animation","duration":400,"delay":900,"startState":{"x":-2,"y":0},"endState":{"x":0,"y":0}}]}]}},{"category":21,"image":"https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png","padding":15},{"product":15,"image":"https://user-images.githubusercontent.com/1459805/60091808-a19b8a00-976f-11e9-9cc7-576ca05c2442.png","padding":15}],"itemsWeb":[{"category":18,"image":"https://cln.sh/41hyDrzG+","padding":15},{"category":21,"image":"https://cln.sh/5nl2ZsKG+","padding":15},{"product":15,"image":"https://cln.sh/q24Xpr1c+","padding":15}]},{"layout":"header_view","title":"Shop by Category"},{"layout":"bannerImage","design":"static","fit":"contain","marginLeft":0,"items":[{"image":"https://i.imgur.com/N1YEO47.png","video":"","products":[],"productLength":3,"showSubcategory":false,"bannerWithProduct":false,"category":396,"defaultShowProduct":false}],"marginBottom":0,"height":0.2,"marginRight":0,"marginTop":0,"radius":6,"padding":0,"parallax":false,"parallaxImageRatio":1.2,"isHorizontal":false,"enableBackground":false},{"layout":"bannerImage","design":"static","fit":"contain","marginLeft":10,"items":[{"image":"https://trello.com/1/cards/6618eee299440b4480da57c3/attachments/673574bc610495ea50ccc6c8/download/Frame_427319948_(1).png","video":"","products":[],"productLength":3,"category":396,"showSubcategory":false,"bannerWithProduct":false,"defaultShowProduct":false,"padding":5},{"image":"https://trello.com/1/cards/6618eee299440b4480da57c3/attachments/673574ca38bcadc58712ad38/download/Frame_427319951.png","showSubcategory":false,"bannerWithProduct":false,"defaultShowProduct":false,"category":396,"video":"","products":[],"productLength":3,"padding":5}],"marginBottom":0,"height":0.3,"marginRight":10,"marginTop":0,"radius":6,"padding":0,"parallax":false,"parallaxImageRatio":1.2,"isHorizontal":false,"enableBackground":false},{"layout":"bannerImage","design":"static","fit":"contain","marginLeft":0,"items":[{"image":"https://i.imgur.com/iDUb5Uc.png","video":"","products":[],"category":396,"productLength":3,"showSubcategory":false,"bannerWithProduct":false,"defaultShowProduct":false}],"marginBottom":0,"height":0.2,"marginRight":0,"marginTop":0,"radius":6,"padding":0,"parallax":false,"parallaxImageRatio":1.2,"isHorizontal":false,"enableBackground":false},{"height":30,"backgroundColor":null,"useLightColor":false,"layout":"spacer"},{"layout":"header_view","title":"Flash Sale","datetimeCountdown":"2024-11-30 16:12","action":{"key":"IcpUvshgzT","showSubcategory":false,"category":396}},{"name":"","layout":"twoColumn","isSnapping":false,"image":"","borderRadius":9,"hMargin":3,"useCircularRadius":true,"useSort":false,"showCategory":false,"vMargin":0,"hPadding":0,"vPadding":3,"cardDesign":"card","backgroundRadius":10,"showCountDown":false,"onSale":true,"rows":1,"columns":3,"imageRatio":1.2,"imageBoxfit":"cover","hidePrice":false,"hideStore":false,"hideTitle":false,"enableRating":true,"showStockStatus":true,"hideEmptyProductListRating":false,"showHeart":true,"showCartButton":false,"showCartIcon":true,"showCartIconColor":false,"cartIconRadius":9,"showQuantity":false,"enableBottomAddToCart":true,"showOnlyImage":false,"showCartButtonWithQuantity":false,"parallax":false,"parallaxImageRatio":1.2,"hideEmptyProductLayout":false,"productListItemHeight":96.8,"enableAutoSliding":false}],"Setting":{"ShowChat":true,"FontFamily":"Inter","FontHeader":"Inter","StickyHeader":false,"TabBarConfig":{"enable":true,"showMinimize":false,"lazyLoading":false,"isSafeArea":false,"color":null,"colorCart":"fffe2060","colorIcon":null,"colorActiveIcon":null,"iconSize":25,"indicatorStyle":"material","showFloatingClip":true,"showFloating":false,"enableOnTop":false,"enableDivider":true,"radiusTopLeft":0,"radiusTopRight":0,"radiusBottomLeft":0,"radiusBottomRight":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":20,"paddingTop":0,"marginTop":0,"marginBottom":0,"marginLeft":0,"marginRight":0,"bottomBarStyle":"slideEffect","alwaysShowTabBar":false,"TabBarIndicator":{"height":2,"tabPosition":"top","topRightRadius":9.138236789907289,"topLeftRadius":9.266948361796246,"bottomRightRadius":8.866903346613203,"bottomLeftRadius":9.173194264700902,"color":"ff1849a9","horizontalPadding":0,"verticalPadding":0,"strokeWidth":0,"radius":0,"distanceFromCenter":0,"paintingStyle":"fill"},"TabBarFloating":{"position":2,"radius":50,"color":null,"location":null,"width":50,"height":50,"elevation":2,"floatingType":"rectangle","notchMargin":4,"isCoverMode":false}},"ProductDetail":"simpleType","ProductListLayout":"list","AgeRestriction":{"enable":false,"alwaysShowUponOpen":true,"imageUrl":"","minimumAge":21,"hintMessage":"What is your year of birth?","useLogo":true,"title":"Welcome to our shop\nYou must be 21 or older to enter","deniedMessage":"You are not of legal age to use this application","backgroundImageUrl":""},"SmartEngagementBanner":{"popup":{"closePosition":"topRight","updatedTime":1661314494281,"data":{"parallax":false,"enableParallax":false,"isHorizontal":false,"marginLeft":null,"layout":"bannerImage","fit":"fitHeight","marginRight":null,"parallaxImageRatio":1.2,"design":"static","marginBottom":10,"items":[{"image":"https://i.imgur.com/ZL1LO75.png","padding":0,"bannerWithProduct":false,"showSubcategory":false,"category":"22","defaultShowProduct":false,"products":[]}],"marginTop":10,"key":"p2oq4zc4hg","height":0.45},"enable":false,"alwaysShowUponOpen":true},"flexible":{"canClose":true,"data":{"layout":"button","marginBottom":0,"alignment":"topCenter","items":[{"marginRight":0,"textFontSize":14,"image":"https://assets9.lottiefiles.com/private_files/lf30_a4mKwA.json","useMaxWidth":true,"borderRadius":2,"width":100,"navigator":{"coupon":"blackf","showSubcategory":false},"height":80,"marginLeft":0}],"marginTop":0},"enable":false,"width":100,"canDrag":true,"height":100},"sticky":{"data":{"parallax":false,"enableParallax":false,"isHorizontal":false,"marginLeft":10,"layout":"bannerImage","fit":"fitWidth","marginRight":10,"parallaxImageRatio":1.2,"design":"static","marginBottom":10,"items":[{"image":"https://i.imgur.com/LUaEM3v.jpeg","padding":0,"coupon":"halfprice","bannerWithProduct":false,"showSubcategory":false,"radius":9,"defaultShowProduct":false,"products":[]}],"marginTop":10,"key":"ga8oe39k5t","height":0.2},"enable":false}}},"TabBar":[{"key":"vi23r7dkx3sad","layout":"home","icon":"https://i.imgur.com/NZoJfR6.png","fontFamily":"CupertinoIcons","pos":100,"defaultTab":false,"fullscreen":false,"showOriginalColor":false},{"key":"vi23r7dkx3ew","layout":"page","icon":"https://trello.com/1/cards/6618eee299440b4480da57c3/attachments/67357bb7e4383bce05ef6aa0/download/compass.png","fontFamily":"CupertinoIcons","label":"Spaces","pos":300,"defaultTab":false,"fullscreen":false,"showOriginalColor":false,"url":"https://discipulus.org/portal","title":"Spaces","auth":false},{"key":"KpwLiEbQnL","layout":"page","icon":"https://trello.com/1/cards/6618eee299440b4480da57c3/attachments/67357bf0f81822d4618b7ec7/download/love.png","fontFamily":"CupertinoIcons","label":"Events","defaultTab":false,"fullscreen":false,"showOriginalColor":false,"url":"https://discipulus.org/events","title":"Event"},{"key":"hwazkmoqao","layout":"profile","icon":"https://trello.com/1/cards/6618eee299440b4480da57c3/attachments/67357bdf707c720782638760/download/user.png","fontFamily":"CupertinoIcons","pos":500,"defaultTab":false,"fullscreen":false,"showOriginalColor":false,"settings":["biometrics","wallet","wishlist","notifications","language","currencies","order","point","rating","privacy","about"],"showBackground":true,"styleItem":"listTile"},{"key":"VsnGOsTEGf","layout":"page","icon":"assets/icons/tabs/icon-heartthin.png","label":"Courses","defaultTab":false,"fullscreen":false,"showOriginalColor":false,"url":"https://discipulus/courses","title":"Courses"},{"key":"cLpDcanPDT","layout":"page","icon":"assets/icons/tabs/icon-heartthin.png","defaultTab":false,"fullscreen":false,"showOriginalColor":false,"url":"https://discipulus.org/story","title":"Story"}],"AppBar":{"snap":true,"items":[],"enable":false,"pinned":false,"floating":true,"elevation":0,"expandedItems":[],"showOnScreens":["home"],"alwaysShowAppBar":false},"VerticalLayout":{"name":"Featured Products","layout":"pinterest","isSnapping":false,"image":"","borderRadius":3,"hMargin":6,"useCircularRadius":true,"useSort":false,"showCategory":false,"vMargin":0,"hPadding":6,"vPadding":2,"cardDesign":"flat","backgroundRadius":10,"showCountDown":false,"onSale":false,"rows":1,"columns":3,"imageRatio":1.2,"imageBoxfit":"cover","hidePrice":false,"hideStore":false,"hideTitle":false,"enableRating":true,"showStockStatus":true,"hideEmptyProductListRating":false,"showHeart":true,"showCartButton":false,"showCartIcon":true,"showCartIconColor":false,"cartIconRadius":9,"showQuantity":false,"enableBottomAddToCart":true,"showOnlyImage":false,"showCartButtonWithQuantity":false,"parallax":false,"parallaxImageRatio":1.2,"hideEmptyProductLayout":false,"productListItemHeight":125,"enableAutoSliding":false,"shuffle":null,"isVertical":true},"Drawer":{"items":[{"show":true,"type":"home"},{"show":true,"type":"blog"},{"show":true,"type":"login"},{"show":true,"type":"category"}]}}
+{
+    "HorizonLayout": [
+        {
+            "layout": "logo",
+            "image": "https://trello.com/1/cards/688191e140a035bb2a31245a/attachments/6883497a460c2eab8ce273f3/download/Usaha_Untuk__HARTABADI.png",
+            "showMenu": true,
+            "showLogo": true,
+            "showSearch": true,
+            "showCart": false,
+            "showNotification": true,
+            "showBadgeCart": false,
+            "opacity": 1.0,
+            "iconOpacity": 0.0,
+            "iconRadius": 6.0,
+            "iconSpreadRadius": 0.0,
+            "iconSize": 24.0,
+            "logoSize": 50.0
+        },
+        {
+            "items": [
+                {
+                    "name": "",
+                    "image": "https://trello.com/1/cards/5f8fe6093cd3ef24d9ede5f5/attachments/5f8fe62076ec8884a587b043/previews/5f8fe62176ec8884a587b05c/download/Mobile_Template_1b.png",
+                    "padding": 15,
+                    "category": 29
+                },
+                {
+                    "image": "https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png",
+                    "padding": 15,
+                    "category": 28
+                },
+                {
+                    "image": "https://user-images.githubusercontent.com/1459805/60091808-a19b8a00-976f-11e9-9cc7-576ca05c2442.png",
+                    "padding": 15,
+                    "product": 30
+                }
+            ],
+            "design": "default",
+            "layout": "bannerImage",
+            "radius": 2,
+            "autoPlay": false,
+            "isSlider": true,
+            "showNumber": false,
+            "showBackGround": true
+        },
+        {
+            "fit": "fitWidth",
+            "items": [
+                {
+                    "image": "https://trello.com/1/cards/5fb8de4a9ffe12204a2a3607/attachments/5fb8de57d9356e0af474cc94/previews/5fb8de58d9356e0af474cca0/download/image.png",
+                    "coupon": "blackf",
+                    "radius": 9,
+                    "padding": 15
+                }
+            ],
+            "design": "static",
+            "height": 0.15,
+            "layout": "bannerImage",
+            "marginTop": 20,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginBottom": 0
+        },
+        {
+            "name": "Our Blog Posts",
+            "layout": "blog"
+        }
+    ],
+    "Setting": {
+        "ShowChat": true,
+        "MainColor": "#3FC1BE",
+        "FontFamily": "Roboto",
+        "FontHeader": "Raleway",
+        "StickyHeader": true,
+        "ProductListLayout": "list"
+    },
+    "TabBar": [
+        {
+            "key": "hBiXpAEJdC",
+            "icon": "https://uup.hartabadi.id/wp-content/uploads/2025/07/008-home-xquare.png",
+            "layout": "home",
+            "defaultTab": false,
+            "fullscreen": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "bidwMgKHShs",
+            "url": "https://uup.hartabadi.id/cf-listing-page/",
+            "icon": "https://uup.hartabadi.id/wp-content/uploads/2025/07/004-crowdfunding-1.png",
+            "label": "UUP",
+            "title": "UUP",
+            "layout": "page",
+            "defaultTab": false,
+            "fullscreen": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "cpTrZklpXjXOJ",
+            "url": "https://uup.hartabadi.id/portal/",
+            "auth": true,
+            "icon": "https://uup.hartabadi.id/wp-content/uploads/2025/07/015-group-users.png",
+            "title": "Community",
+            "layout": "page",
+            "defaultTab": false,
+            "fullscreen": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "BozgEVxgHJSgVQ",
+            "icon": "https://uup.hartabadi.id/wp-content/uploads/2025/07/012-user-profile.png",
+            "layout": "profile",
+            "defaultTab": false,
+            "fullscreen": false,
+            "showBackground": true,
+            "showOriginalColor": false
+        }
+    ],
+    "AppBar": null,
+    "Drawer": {
+        "logo": "https://uup.hartabadi.id/wp-content/uploads/2025/07/cropped-Usaha-Untuk-HARTABADI.png",
+        "items": [
+            {
+                "show": true,
+                "type": "home"
+            },
+            {
+                "show": true,
+                "type": "blog"
+            },
+            {
+                "show": true,
+                "type": "categories"
+            },
+            {
+                "show": true,
+                "type": "cart"
+            },
+            {
+                "show": true,
+                "type": "profile"
+            },
+            {
+                "show": true,
+                "type": "login"
+            },
+            {
+                "show": false,
+                "type": "category"
+            }
+        ],
+        "enable": true,
+        "filter": 0,
+        "logoDark": null,
+        "safeArea": false,
+        "iconColor": null,
+        "textColor": null,
+        "logoConfig": {
+            "boxFit": "cover",
+            "height": 38,
+            "marginTop": 60,
+            "marginLeft": 5,
+            "marginRight": 0,
+            "marginBottom": 10
+        },
+        "zoomConfig": null,
+        "colorFilter": null,
+        "subDrawerItem": {},
+        "backgroundColor": null,
+        "backgroundImage": null
+    }
+}
